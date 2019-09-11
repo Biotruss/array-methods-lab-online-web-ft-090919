@@ -4,6 +4,7 @@ end
 
 def using_sort(array)
   array.sort
+end
 
 def using_reverse(array)
   array.reverse
@@ -18,5 +19,5 @@ def using_last(array)
 end
 
 def using_size(array)
-  arra.size
+  array.size
 end
